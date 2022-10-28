@@ -1,5 +1,5 @@
 # TFM-Scripts
-Este repositorio contiene una serie de scipts auxiliares empleados durante la realización de mi Trabajo de Fin de Máster, que se puede consultar [en el Archivo Digital de la UPM](https://oa.upm.es/71403/).
+Este repositorio contiene una serie de scripts auxiliares empleados durante la realización de mi Trabajo de Fin de Máster, que se puede consultar [en el Archivo Digital de la UPM](https://oa.upm.es/71403/).
 
 Los scripts están implementados en Python, y se usan para convertir datos o generar información de salida útil en diversas fases del trabajo.
 
