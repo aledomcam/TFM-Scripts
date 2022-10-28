@@ -12,3 +12,5 @@ En concreto, los scripts incluidos son los siguientes:
 - `ETL/Conversión de gasto por país de origen.py` y `ETL/Conversión de visitantes por motivo.py`: Scripts empleados para convertir un fichero CSV con datos de turismo del INE a otro formato que permita su importación en la base de datos con la que se trabajó durante el TFM.
 
 La carpeta `ETL` también contiene dos ficheros CSV como ejemplo de los datos que reciben como entrada los scripts ETL.
+
+Véase también el [repositorio principal del proyecto](https://github.com/aledomcam/TFM-EarlyWarn).
